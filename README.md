@@ -26,10 +26,6 @@ To run this project locally, follow these steps:
 
 - **Make Another Prediction**: The app also includes a "Make another prediction" button that allows the user to clear all the input fields and make a new prediction.
 
-## Preview
-
-_Insert an animated GIF or screenshot showcasing the web app here._
-
 ## Technologies Used
 
 - Python
@@ -41,21 +37,11 @@ _Insert an animated GIF or screenshot showcasing the web app here._
 
 ## Dataset
 
-The Boston house dataset used for training the prediction model can be found [here](link_to_dataset). It contains various features related to housing in Boston.
+The Boston house dataset used for training the prediction model can be found on (kaggle.com). It contains various features related to housing in Boston.
 
 ## Model
 
-The prediction model is built using XGBoost Regressor from the XGBoost library. The trained model is saved as `price_predictor.sav`.
-
-## Credits
-
-- The Boston house dataset is obtained from [link_to_dataset_source].
-- The feature description module (`feature_description.py`) is created by [Your Name].
-- The project was inspired by [Source of Inspiration (optional)].
-
-## Acknowledgments
-
-- A big thank you to [Your Mentor's Name] for their guidance and support throughout this project.
+The prediction model is built using XGBoost Regressor from the XGBoost library. The trained model is saved as `price_pred_model.sav`.
 
 ## Contributing
 
@@ -63,12 +49,4 @@ If you'd like to contribute to this project, feel free to open an issue or submi
 
 ## License
 
-[Specify the license for your project here, if applicable]
-
----
-
-_Replace the placeholders with actual links, names, and relevant information._
-
-This revised template should retain the bolded headings and maintain proper line breaks when copied to GitHub. Please update the placeholders with your specific information before pushing the README to your GitHub repository.
-
-If you have any further questions or need additional assistance, feel free to ask. Good luck with your project!
+None
